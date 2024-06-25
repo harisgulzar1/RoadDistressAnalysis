@@ -9,3 +9,6 @@ https://docs.google.com/presentation/d/1J3r8avQwMQdcVcMYYjOZjrMjsW6AIoP47sHrQvKP
 
 Lecture 3 Slides
 https://docs.google.com/presentation/d/1DwFwBvjSNo1NNh7BRpvxzNqS9JiHLuHg6lnEN5Mur_I/edit?usp=sharing
+
+Lecture 4 Slides
+https://docs.google.com/presentation/d/1FRs7ohvuVfbfalomtQJohrU68XInKN6YmloTyb431dk/edit?usp=sharing
